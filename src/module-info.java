@@ -1,8 +1,3 @@
-/**
- * 
- */
-/**
- * 
- */
 module leetcodesolutions {
+	exports leetcodesolutions;
 }
