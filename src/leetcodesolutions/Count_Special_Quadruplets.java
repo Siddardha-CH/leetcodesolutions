@@ -5,6 +5,10 @@ public class Count_Special_Quadruplets {
 //
 //		nums[a] + nums[b] + nums[c] == nums[d], and
 //		a < b < c < d
+
+// 	Constraints:
+// 4 <= nums.length <= 50
+// 1 <= nums[i] <= 100
 	class Solution {
 	    public int countQuadruplets(int[] nums) {
 	        int n=nums.length;
