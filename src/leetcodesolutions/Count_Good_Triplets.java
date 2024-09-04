@@ -12,6 +12,11 @@ public class Count_Good_Triplets {
 //	Where |x| denotes the absolute value of x.
 //
 //	Return the number of good triplets.
+
+// 	Constraints:
+// 3 <= arr.length <= 100
+// 0 <= arr[i] <= 1000
+// 0 <= a, b, c <= 1000
 	class Solution {
 	    public int countGoodTriplets(int[] arr, int a, int b, int c) {
 	        int count=0;
