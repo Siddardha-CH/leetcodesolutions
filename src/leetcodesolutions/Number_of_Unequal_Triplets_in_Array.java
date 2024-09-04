@@ -5,6 +5,10 @@ package leetcodesolutions;
 //nums[i], nums[j], and nums[k] are pairwise distinct.
 //In other words, nums[i] != nums[j], nums[i] != nums[k], and nums[j] != nums[k].
 //Return the number of triplets that meet the conditions.
+// Constraints:
+
+// 3 <= nums.length <= 100
+// 1 <= nums[i] <= 1000
 
 public class Number_of_Unequal_Triplets_in_Array {
 	class Solution {
