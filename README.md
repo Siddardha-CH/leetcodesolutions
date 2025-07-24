@@ -104,7 +104,7 @@ leetcodesolutions/
 ## 📬 Contact
 
 - ✉️ [siddhusiddhu1712@gmail.com](mailto:siddhusiddhu1712@gmail.com)
-- 💼 [LinkedIn]((https://www.linkedin.com/in/siddardha-ch-5baba0204/)) <!-- Replace with your LinkedIn link if you want -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/siddardha-ch-5baba0204/) <!-- Replace with your LinkedIn link if you want -->
 
 ---
 
