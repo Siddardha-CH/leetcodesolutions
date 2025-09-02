@@ -1,6 +1,6 @@
 <!-- Banner with animated typing effect (customize as you like!) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=45&lines=Welcome+to+Siddarda's+LeetCode+Solutions!;250%2B+Problems+Solved+in+Java+%26+Python+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=45&lines=Welcome+to+Siddarda's+LeetCode+Solutions!;300%2B+Problems+Solved+in+Java+%26+Python+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
