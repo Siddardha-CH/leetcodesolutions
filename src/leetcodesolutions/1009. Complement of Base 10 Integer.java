@@ -1,12 +1,7 @@
-You are given a binary string s. You are allowed to perform two types of operations on the string in any sequence:
+The complement of an integer is the integer you get when you flip all the 0's to 1's and all the 1's to 0's in its binary representation.
 
-Type-1: Remove the character at the start of the string s and append it to the end of the string.
-Type-2: Pick any character in s and flip its value, i.e., if its value is '0' it becomes '1' and vice-versa.
-Return the minimum number of type-2 operations you need to perform such that s becomes alternating.
-
-The string is called alternating if no two adjacent characters are equal.
-
-For example, the strings "010" and "1010" are alternating, while the string "0100" is not.
+For example, The integer 5 is "101" in binary and its complement is "010" which is the integer 2.
+Given an integer n, return its complement.
 
 
 
