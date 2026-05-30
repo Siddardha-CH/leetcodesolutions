@@ -10,7 +10,6 @@ Return a boolean array results, where results[i] is true if you can place the bl
 
 
 
-
 class Solution {
         /*
         #########################################################################
@@ -35,21 +34,10 @@ class Solution {
         for (int[] i : queries) {
             if (i[0] == 1) {
                 int x = i[1];
-                Integer high = set.higher(x);
-                Integer low = set.lower(x);
-                int nxt = -1;
-                if (high != null)
-                    nxt = high;
-                int pre = -1;
-                if (low != null)
-                    pre = low;
-                else {
-                    Integer flor = set.floor(x);
-                    if (flor != null)
-                        pre = flor;
-                }
+                Integer nxt = set.higher(x);
+                Integer pre = set.floor(x);
                 updatesegtree(x, x - pre, 0, 0, n - 1);
-                if (nxt != -1)
+                if (nxt != null)
                     updatesegtree(nxt, nxt - x, 0, 0, n - 1);
                 set.add(x);
             }
